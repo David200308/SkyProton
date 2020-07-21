@@ -1,6 +1,6 @@
 # SkyProton.ORG
 
-![SkyProton](logo.jpg)
+![SkyProton](logo1.png)
 
 This Website for Non-Profit Project 
 
